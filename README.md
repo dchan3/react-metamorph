@@ -15,7 +15,9 @@ import { Metamorph } from 'react-metamorph';
 class MyPage extends Component {
   render() {
     return <Metamorph title="Hello World!"
-      description="Welcome to my page!" keywords=["My page", 'Hello World'] />
+      description="Welcome to my page!"
+      keywords=["My page", 'Hello World']
+      image="hello.jpg" />
   }
 }
 ```
