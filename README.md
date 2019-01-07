@@ -10,7 +10,7 @@ redundant, such as those by Open Graph and Twitter.
 ## Usage
 ```Javascript
 import React, { Component } from 'react';
-import Metamorph from 'react-metamorph';
+import { Metamorph } from 'react-metamorph';
 
 class MyPage extends Component {
   render() {
