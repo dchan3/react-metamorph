@@ -1,3 +1,4 @@
 .eslintrc
+.eslintignore
 .babelrc
 lib/

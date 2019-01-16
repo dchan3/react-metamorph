@@ -8,7 +8,11 @@ plugins:
   - jsx
   - import
   - react
+settings:
+  react:
+    version: detect
 rules:
+  react/jsx-key: off
   indent:
     - error
     - 2
